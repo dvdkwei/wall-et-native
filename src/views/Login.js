@@ -24,7 +24,7 @@ export default Login = () => {
           <Text style={{ color: '#fff', fontWeight: 'bold', fontSize: 20 }}>Login</Text>
         </TouchableOpacity>
       </View>
-      <Text style={{ fontFamily: 'Lato_400Regular', color: '#fff' }}>Manage. Save. Gain.</Text>
+      <Text style={{ fontFamily: 'Lato_400Regular', color: '#BEBEBE', fontSize: 14 }}>Manage. Save. Gain.</Text>
     </View>
   )
 }
